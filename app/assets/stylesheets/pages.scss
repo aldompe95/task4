@@ -56,4 +56,18 @@ html, body{ height: 100%;}
       margin-left: auto;
     }
   }
+  #music{
+    background-image: url("https://camo.githubusercontent.com/0c48ed2b72622c935165c5127cb2cc699f46ea0c/687474703a2f2f692e696d6775722e636f6d2f545572515530316c2e676966");
+    background-size: cover;
+    height: 100%;
+    text-align: center;
+    #nav{
+      margin-bottom: 15px;
+      ul{background-color: #49982a;}
+    }
+    h1{
+      color: white;
+      span{ color: green;}
+    }
+  }
   
