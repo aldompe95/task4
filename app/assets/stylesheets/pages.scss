@@ -70,4 +70,17 @@ html, body{ height: 100%;}
       span{ color: green;}
     }
   }
-  
+  #sport{
+    background-image: url("http://2.bp.blogspot.com/-vDU3rVq6qJ8/T4l3JhQpx1I/AAAAAAAADlc/V-PvKVgeFws/s1600/quabro-ubuntu.png");
+    background-size: cover;
+    height: 100%;
+    text-align: center;
+    #nav{
+      margin-bottom: 15px;
+      ul{background-color: #040468;}
+    }
+    h1, h2{
+      color: white;
+      span{ color: blue;}
+    }
+  }
